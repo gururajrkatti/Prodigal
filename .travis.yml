@@ -1,5 +1,3 @@
-lang: C
-
 arch: 
   - amd64
   - ppc64le
