@@ -1,3 +1,8 @@
+lang: C
+
+arch: 
+  - amd64
+  - ppc64le
 
 script:
   - sudo make install
